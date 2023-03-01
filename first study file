@@ -1,0 +1,7 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+cout<<"学习代码的第一步，进入C++语言的初阶段，保持加油学习哦！”<<endl;
+return 0
+}
